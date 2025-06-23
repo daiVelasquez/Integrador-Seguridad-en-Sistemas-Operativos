@@ -21,6 +21,8 @@ Este trabajo aborda la seguridad en puertos desde el sistema operativo Windows. 
 - Capturas de pantalla del caso práctico
 - Guion del video explicativo (opcional)
 
+## Link Video: https://youtu.be/Ts_DleEW5Bs
+
 ## 📌 Observaciones
 
 Este trabajo fue presentado fuera de término porque la plataforma se cerró. Se entrega por este medio a modo de recuperación.
